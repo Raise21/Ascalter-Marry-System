@@ -1,0 +1,10 @@
+name: marry-system
+version: 1.1-SNAPSHOT
+main: de.ascalter.marry.Marry
+author: RaiseException
+
+depend: [API]
+
+commands:
+  marry:
+  unmarry:
